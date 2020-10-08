@@ -1,0 +1,13 @@
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/Send
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/Send.deps.json
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.json
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.dev.json
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/Send.dll
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/Send.pdb
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/obj/Debug/netcoreapp3.1/Send.csprojAssemblyReference.cache
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfoInputs.cache
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfo.cs
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/obj/Debug/netcoreapp3.1/Send.csproj.CopyComplete
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/obj/Debug/netcoreapp3.1/Send.dll
+/home/acjunior/Projetos/NetCore/RabbitMQ/Send/obj/Debug/netcoreapp3.1/Send.pdb
